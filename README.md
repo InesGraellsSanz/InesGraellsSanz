@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 <!-- ![Artechz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaunau&count_private=true&theme=dark) --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inesgraellssanz&layout=compact&theme=dark)
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inesgraelssanz&theme=monokai
