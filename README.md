@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @InesGraellsSanz
+- 👀 I’m interested in CS and tech in general. I like front-end and back-end Development.
+- 🌱 I’m currently working with Java, javascript, C, Typescript and SQL.
+- 🔭 Outside of coding, I enjoy reading, listening to music, playing piano, and photography.
+
+<!-- ![Artechz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaunau&count_private=true&theme=dark) --->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inesgraellssanz&layout=compact&theme=dark)
